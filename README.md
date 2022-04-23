@@ -30,7 +30,6 @@
 <a href="https://www.instagram.com/sachinpandey_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachinpandey_" height="30" width="40" /> <a href="https://bugcrowd.com/Sachin98/" target="blank"><img align="center" src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" alt="Sachin98" height="34" width="36" /></a>
 </p>
 </p>
-______________________________________________
 
 ## Languages and Tools:
 
