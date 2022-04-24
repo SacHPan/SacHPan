@@ -12,7 +12,8 @@
 <p align="left"> <a href="https://www.github.com/SacHPan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SacHPan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.twitter.com/sachin_pandey98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sachin_pandey98?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a> </p>
+/></a> <a href="https://www.twitch.tv/sachpan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/sachpan?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a> </p>
 
 - 🔭 I’m currently working on **[Smart Contract Vulnerabilities](https://immunefi.com/)**
 
@@ -57,9 +58,7 @@ src="https://img.shields.io/twitter/follow/sachin_pandey98?logo=twitter&style=fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SacHPan&show_icons=true&locale=en" alt="SacHPan" /></p>
 
-  
-
-
+ 
 <br/>
 <br/>
 
