@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Sachin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Sachin</h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&lines=Application+Security+Engineer;Security+Researcher;Interested+in+DevSecOps;Always+learning;From+India"></a>
